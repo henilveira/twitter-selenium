@@ -1,2 +1,2 @@
 # python-selenium
-Twitter BOT
+Bot do Twitter usando Selenium
