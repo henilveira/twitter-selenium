@@ -23,7 +23,7 @@
 
 1. Clone o repositório do projeto:
     ```sh
-    git clone https://github.com/seu-usuario/TwitterBot.git
+    git clone https://github.com/imrickss/TwitterBot.git
     ```
 2. Navegue até o diretório do projeto:
     ```sh
